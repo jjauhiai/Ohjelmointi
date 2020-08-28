@@ -1,11 +1,9 @@
 #include <iostream>
-#include "toinen.cpp"
 
 using namespace std;
 
 int main()
 {
-    cout << "Helou mualima" << endl;
-    foo();
+    cout << "Hello World!" << endl;
     return 0;
 }
