@@ -1,5 +1,6 @@
 #include <iostream>
 #include "toinen.cpp"
+#include "kolmas.cpp"
 
 using namespace std;
 
