@@ -1,6 +1,7 @@
 #include <iostream>
 #include "toinen.cpp"
 #include "kolmas.cpp"
+#include "neljas.cpp"
 
 using namespace std;
 
