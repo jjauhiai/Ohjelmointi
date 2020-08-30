@@ -10,5 +10,6 @@ int main()
     cout << "Helou mualima" << endl;
     foo();
     bar();
+    testifunktio();
     return 0;
 }
