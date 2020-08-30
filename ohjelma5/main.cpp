@@ -8,5 +8,6 @@ int main()
 {
     cout << "Helou mualima" << endl;
     foo();
+    bar();
     return 0;
 }
